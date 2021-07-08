@@ -23,3 +23,4 @@ int main()
     cout << "Minimum Number of operation required will be =" << solve(arr, 1, n - 1);
     return 0;
 }
+//time complexity is O(n^3) as n time takes to  find the minimum element 
